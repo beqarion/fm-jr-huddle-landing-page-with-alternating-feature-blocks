@@ -1,4 +1,3 @@
-
 # Frontend Mentor - Huddle landing page with alternating feature blocks solution
 
 This is a solution to the [Huddle landing page with alternating feature blocks challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -35,9 +34,9 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/beqarion/3-column-preview-card-component)
+- [Solution](https://github.com/beqarion/fm-jr-huddle-landing-page-with-alternating-feature-blocks)
 
-- [Live Site](https://beqarion.github.io/3-column-preview-card-component/)
+- [Live Site](https://beqarion.github.io/fm-jr-huddle-landing-page-with-alternating-feature-blocks/)
 
 ## My process
 
